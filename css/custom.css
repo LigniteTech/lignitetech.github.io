@@ -1,0 +1,18 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  
+}
+
+.imgContainer {
+    float:left;
+}
+
+.datasource-description {
+	vertical-align: text-top;
+}

@@ -2,8 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lignitetech.com/</loc>
-    <priority>0</priority>
+    <loc>http:///www.lignitetech.com/</loc>
+    <lastmod>2016-11-12T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/faq/</loc>
+    <lastmod>2016-11-12T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/events/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/law-enforcement/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/lead-generation/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/reputation/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/safety/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/fraud-detection/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/solution/link-analysis/</loc>
+    <lastmod>2016-11-06T13:01:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/features/</loc>
   </url>
   
 </urlset>

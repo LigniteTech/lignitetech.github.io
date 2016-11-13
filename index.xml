@@ -1,12 +1,298 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lignite Tech</title>
-    <link>http://lignitetech.com/</link>
-    <description>Recent content on Lignite Tech</description>
+    <title>LigniteTech</title>
+    <link>http:///www.lignitetech.com/index.xml</link>
+    <description>Recent content on LigniteTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://lignitetech.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 12 Nov 2016 20:10:58 +0000</lastBuildDate>
+    <atom:link href="http:///www.lignitetech.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FAQ</title>
+      <link>http:///www.lignitetech.com/faq/</link>
+      <pubDate>Sat, 12 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/faq/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-what-is-miner&#34;&gt;1. WHAT IS MINER?&lt;/h2&gt;
+
+&lt;p&gt;LigniteTech Miner is Cloud SaaS is the SaaS (Software as a Service) implementation of a data relationship analysis platform. It aims to provide a mechanism to link and visualize unstructurally related data. There is out of the box support for a variety of publicly available datasources and a flexible data model allows for the easy integration of any proprietary datasource.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-what-types-of-data-can-be-analysed&#34;&gt;2. WHAT TYPES OF DATA CAN BE ANALYSED?&lt;/h2&gt;
+
+&lt;p&gt;Any data that can be captured digitally is a candidate for being used.&lt;/p&gt;
+
+&lt;p&gt;For instance you can see that two people have a connection&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/person-to-person.png&#34; alt=&#34;Person to Person&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this case you can see that a person has a connection to a building&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/person-to-building.png&#34; alt=&#34;Person to Building&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Within the data model not only are the entities treated as first class citizens but so is the type of connection between them.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-what-data-sources-can-be-used&#34;&gt;3. WHAT DATA SOURCES CAN BE USED?&lt;/h2&gt;
+
+&lt;p&gt;Any addressable source that has a text based data or meta data component can be used as a source. Publicly available streaming sources such as Twitter, Google Plus or Facebook can be used to provide real time data. In addition, static snapshots of data can be provided using Relational databases, NoSQL databases and Flat files. Finally data can also be extracted from Big Data endpoints such as Apache Sparl, Apache Kafka or Apache Flink.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-how-much-data-can-be-analysed&#34;&gt;4. HOW MUCH DATA CAN BE ANALYSED?&lt;/h2&gt;
+
+&lt;p&gt;The underlying technology used can be used to efficiently store and retrieve billions of data points. Several hundred thousand events per hour can be consumed, analysed and linked.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-can-proprietary-data-sources-be-used&#34;&gt;5. CAN PROPRIETARY DATA SOURCES BE USED?&lt;/h2&gt;
+
+&lt;p&gt;Given the modular way in which the data is stored, the platform is agnostic about the source of the data. If you require data from a non public source then our consulting team will be available to manage the entire delivery from determining requirements, development, installation and support of the bespoke components.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-how-is-the-system-accessed&#34;&gt;6. HOW IS THE SYSTEM ACCESSED&lt;/h2&gt;
+
+&lt;p&gt;Typically platform is hosted in UK / US / EU data centres, which customers connect using an encrypted web connection. This will require configuration of any customer firewalls which are in place (led by the customer in conjunction with our support team). Platform instances will not be shared between customers or any other third party.&lt;/p&gt;
+
+&lt;p&gt;A typical service for 5 users will run on a 10Mb/s web connection. We are able to advise on bandwidth requirements for larger deployments.&lt;/p&gt;
+
+&lt;p&gt;Since the service is deployed through a browser, a low latency connection is not required for the service to operate effectively. Given the nature of the technology in use a modern web browser will be required (eg Google Chrome, Mozilla Firefox).&lt;/p&gt;
+
+&lt;p&gt;If the data being analysed is of a sensitive nature then self hosted options are available and will require a custom price plan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you need further information please feel free to contact us&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http:///www.lignitetech.com/solution/events/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/events/</guid>
+      <description>&lt;p&gt;Events&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Law Enforcement Support</title>
+      <link>http:///www.lignitetech.com/solution/law-enforcement/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/law-enforcement/</guid>
+      <description>&lt;p&gt;Law Enforcement Support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lead Generation</title>
+      <link>http:///www.lignitetech.com/solution/lead-generation/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/lead-generation/</guid>
+      <description>&lt;p&gt;Lead Generation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reputation Analysis</title>
+      <link>http:///www.lignitetech.com/solution/reputation/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/reputation/</guid>
+      <description>&lt;p&gt;Reputation Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>http:///www.lignitetech.com/solution/safety/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/safety/</guid>
+      <description>&lt;p&gt;Safety&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fraud detection</title>
+      <link>http:///www.lignitetech.com/solution/fraud-detection/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/fraud-detection/</guid>
+      <description>&lt;p&gt;Fraud Detection&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link Analysis</title>
+      <link>http:///www.lignitetech.com/solution/link-analysis/</link>
+      <pubDate>Sun, 06 Nov 2016 13:01:11 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/link-analysis/</guid>
+      <description>&lt;p&gt;Link Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http:///www.lignitetech.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;find-out-more&#34;&gt;Find out more&lt;/h1&gt;
+
+&lt;p&gt;If you would like more information or you want to arrange a demonstration please feel free to contact us and we we get back to you as soon as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>http:///www.lignitetech.com/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/features/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-dashboard-driven&#34;&gt;1. Dashboard Driven&lt;/h2&gt;
+
+&lt;p&gt;A responsive system overview customised for each user&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/miner-dashboard.png&#34; alt=&#34;Dashboard&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-real-time-alerts&#34;&gt;2. Real time alerts&lt;/h2&gt;
+
+&lt;p&gt;Instant alerts for when user specified data or links change&lt;/p&gt;
+
+&lt;h2 id=&#34;3-collaborative-worksets&#34;&gt;3. Collaborative Worksets&lt;/h2&gt;
+
+&lt;p&gt;Users can carry out investigations on a specific set of data. A dashboard view provides an overview of all their current worksets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-overview.png&#34; alt=&#34;Workset Overview&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Get a summary of the entities in a worksets&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-summary.png&#34; alt=&#34;Workset Summary&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See how the entities in a workset are related&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-network.png&#34; alt=&#34;Workset Network&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If any entity has GeoLocation information, it will be displayed on the map&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-location.png&#34; alt=&#34;Workset Location&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Worksets can be shared between users and updates will be reflected in real time.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-comments&#34;&gt;4. Comments&lt;/h2&gt;
+
+&lt;p&gt;Permissions based comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also fully searchable.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-entity-search-and-entry&#34;&gt;5. Entity search and entry&lt;/h2&gt;
+
+&lt;p&gt;All the entities in the system can be displayed&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview.png&#34; alt=&#34;Entity Overview&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;entity-search&#34;&gt;Entity Search&lt;/h3&gt;
+
+&lt;p&gt;Searches can be carried out by name, type, attributes or any combination&lt;/p&gt;
+
+&lt;p&gt;By name&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text.png&#34; alt=&#34;Entity Filtered By Text&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By type&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-type.png&#34; alt=&#34;Entity Filtered By Type&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By name and type&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text-type.png&#34; alt=&#34;Entity Filtered By Text and Type&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;entity-entry&#34;&gt;Entity Entry&lt;/h3&gt;
+
+&lt;p&gt;Entity details can be viewed and amened. The links can be modified here&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-view.png&#34; alt=&#34;Entity View&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6-link-view-and-search&#34;&gt;6. Link view and search&lt;/h2&gt;
+
+&lt;p&gt;You can see all the links held in the system as well as being able to search by name and type&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/links-overview.png&#34; alt=&#34;Link Overview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;7-datasource-search&#34;&gt;7. Datasource search&lt;/h2&gt;
+
+&lt;p&gt;Given the appropriate access level, new datasource searches can be added into the system&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/search-overview.png&#34; alt=&#34;Search Overview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;8-network-view&#34;&gt;8. Network view&lt;/h2&gt;
+
+&lt;p&gt;The network view can give you a visual view of the data in the system&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view.png&#34; alt=&#34;Network View&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Large datasets can be explored&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-zoomed-out.png&#34; alt=&#34;Network View Zoomed Out&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hovering over any data point highlights the connected entities&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-hover.png&#34; alt=&#34;Network View Hover&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;network-search&#34;&gt;Network search&lt;/h3&gt;
+
+&lt;p&gt;Dynamically typed queries can be construted via an intuitive GUI&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-query-view.png&#34; alt=&#34;Network Query View&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;9-map-view&#34;&gt;9. Map view&lt;/h2&gt;
+
+&lt;p&gt;Any GeoLocation aware attributes on an entity will be displayed on a map view&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/map-overview.png&#34; alt=&#34;Map Overview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;10-user-access-and-permissions&#34;&gt;10. User access and permissions&lt;/h2&gt;
+
+&lt;p&gt;Users and access permissions are maintained via the admin section&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-user-management.png&#34; alt=&#34;Admin User Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-permissions-management.png&#34; alt=&#34;Admin Permissions Management&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;11-audit&#34;&gt;11. Audit&lt;/h2&gt;
+
+&lt;p&gt;All events that take place in the system are fully audited&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-audit-management.png&#34; alt=&#34;Admin Audit Management&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;12-datasource-management&#34;&gt;12. Datasource Management&lt;/h2&gt;
+
+&lt;p&gt;Datasources can be managed via a GUI&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-management.png&#34; alt=&#34;Admin Datasource Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where credentials are required to access the datasource there will be fields to enter the relevant information&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-twitter.png&#34; alt=&#34;Admin Datasource Twitter&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;13-metadata-management&#34;&gt;13. Metadata Management&lt;/h2&gt;
+
+&lt;p&gt;All system metadata is managed from a single location&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-management.png&#34; alt=&#34;Admin Metadata Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the relevant data fields for metadata can be modified&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-entity.png&#34; alt=&#34;Admin Metadata Entity&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

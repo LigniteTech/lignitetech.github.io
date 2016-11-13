@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solution-rsses on LigniteTech</title>
+    <link>http:///www.lignitetech.com/solution/index.xml</link>
+    <description>Recent content in Solution-rsses on LigniteTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 08 Nov 2016 20:10:58 +0000</lastBuildDate>
+    <atom:link href="http:///www.lignitetech.com/solution/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Events</title>
+      <link>http:///www.lignitetech.com/solution/events/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/events/</guid>
+      <description>&lt;p&gt;Events&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Law Enforcement Support</title>
+      <link>http:///www.lignitetech.com/solution/law-enforcement/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/law-enforcement/</guid>
+      <description>&lt;p&gt;Law Enforcement Support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lead Generation</title>
+      <link>http:///www.lignitetech.com/solution/lead-generation/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/lead-generation/</guid>
+      <description>&lt;p&gt;Lead Generation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reputation Analysis</title>
+      <link>http:///www.lignitetech.com/solution/reputation/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/reputation/</guid>
+      <description>&lt;p&gt;Reputation Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>http:///www.lignitetech.com/solution/safety/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/safety/</guid>
+      <description>&lt;p&gt;Safety&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fraud detection</title>
+      <link>http:///www.lignitetech.com/solution/fraud-detection/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/fraud-detection/</guid>
+      <description>&lt;p&gt;Fraud Detection&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Link Analysis</title>
+      <link>http:///www.lignitetech.com/solution/link-analysis/</link>
+      <pubDate>Sun, 06 Nov 2016 13:01:11 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/link-analysis/</guid>
+      <description>&lt;p&gt;Link Analysis&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
