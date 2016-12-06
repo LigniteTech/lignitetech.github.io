@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Item-rsses on Miner</title>
+    <link>http:///www.lignitetech.com/item/index.xml</link>
+    <description>Recent content in Item-rsses on Miner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 08 Nov 2016 20:10:58 +0000</lastBuildDate>
+    <atom:link href="http:///www.lignitetech.com/item/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dashboard Driven</title>
+      <link>http:///www.lignitetech.com/item/dashboard/</link>
+      <pubDate>Tue, 08 Nov 2016 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/dashboard/</guid>
+      <description>&lt;p&gt;A personalised dashboard view for each user. A reactive dashboard screen that gives the user an at a glance overview of the system, any updates to worksets and any active alerts.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/miner-dashboard.png&#34; alt=&#34;Dashboard&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Worksets</title>
+      <link>http:///www.lignitetech.com/item/collab-workset/</link>
+      <pubDate>Sat, 28 Nov 2015 22:32:48 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/collab-workset/</guid>
+      <description>&lt;p&gt;Share investigations between teams, comment on any piece of data, set up real time alerts for when data changes and export to external systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Users can carry out investigations on a specific groups of data. A dashboard view provides an overview of all their current worksets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workset Summary</title>
+      <link>http:///www.lignitetech.com/item/workset-summary/</link>
+      <pubDate>Sat, 08 Nov 2014 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/workset-summary/</guid>
+      <description>&lt;p&gt;Workset Summary. A responsive system overview customised for each user&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-summary.png&#34; alt=&#34;Workset Summary&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Network view of data</title>
+      <link>http:///www.lignitetech.com/item/workset-network/</link>
+      <pubDate>Fri, 08 Nov 2013 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/workset-network/</guid>
+      <description>&lt;p&gt;Network view of workset data. See how the entities in a workset are related. Increase the depth of the relationships to discover patterns and relationship clusters.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Location aware data view</title>
+      <link>http:///www.lignitetech.com/item/workset-location/</link>
+      <pubDate>Thu, 08 Nov 2012 20:10:58 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/workset-location/</guid>
+      <description>&lt;p&gt;Workset Location view. Any entity with GeoLocation information, will be displayed on the map. The map instantly reflects any incoming data with location information.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>http:///www.lignitetech.com/item/comments/</link>
+      <pubDate>Sat, 01 Jan 2011 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/comments/</guid>
+      <description>&lt;p&gt;Comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also full text indexed and can be searched from any point in the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Entity Search</title>
+      <link>http:///www.lignitetech.com/item/entity-search/</link>
+      <pubDate>Fri, 01 Jan 2010 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/entity-search/</guid>
+      <description>&lt;p&gt;Entities within the system can be searched for on a combination of any of their underlying attributes. Create worksets for further investigation or to send another user.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Searches can be carried out by name, type, attributes or any combination&lt;/p&gt;
+
+&lt;p&gt;By name&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text.png&#34; alt=&#34;Entity Filtered By Text&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By type&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-type.png&#34; alt=&#34;Entity Filtered By Type&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By name and type&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text-type.png&#34; alt=&#34;Entity Filtered By Text and Type&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Entity Entry</title>
+      <link>http:///www.lignitetech.com/item/entity-entry/</link>
+      <pubDate>Thu, 01 Jan 2009 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/entity-entry/</guid>
+      <description>&lt;p&gt;Entity details can be viewed and amended. Add comments and attributes on an ad-hoc basis. Create new relationships to other entities&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Link View</title>
+      <link>http:///www.lignitetech.com/item/link-view/</link>
+      <pubDate>Thu, 01 Jan 2009 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/link-view/</guid>
+      <description>&lt;p&gt;Link Overview. You can see all the links held in the system as well as being able to search by name and type. Display links in chronological order as the data updates.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/links-overview.png&#34; alt=&#34;Link Overview&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datasource</title>
+      <link>http:///www.lignitetech.com/item/datasource/</link>
+      <pubDate>Tue, 01 Jan 2008 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/datasource/</guid>
+      <description>&lt;p&gt;Datasource Management which allows real time gathering of data or importing from a static data set. Data can then be shared with other users or used in isolation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/search-overview.png&#34; alt=&#34;Search Overview&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Network View</title>
+      <link>http:///www.lignitetech.com/item/network-view/</link>
+      <pubDate>Tue, 01 Jan 2008 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/network-view/</guid>
+      <description>&lt;p&gt;Network View of all data in the system. Visualize data connections and relationships. Find the shortest path between two points or drill down to isolate relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view.png&#34; alt=&#34;Network View&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Large datasets can be explored&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-zoomed-out.png&#34; alt=&#34;Network View Zoomed Out&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hovering over any data point highlights the connected entities&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-hover.png&#34; alt=&#34;Network View Hover&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Network Search</title>
+      <link>http:///www.lignitetech.com/item/network-search/</link>
+      <pubDate>Mon, 01 Jan 2007 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/network-search/</guid>
+      <description>&lt;p&gt;Dynamically typed queries can be construted via an intuitive GUI. Interactive graph based searching which can then be used as the basis for further investigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-query-view.png&#34; alt=&#34;Network Query View&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Map View</title>
+      <link>http:///www.lignitetech.com/item/map-view/</link>
+      <pubDate>Sun, 01 Jan 2006 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/map-view/</guid>
+      <description>&lt;p&gt;Any data with GeoLocation information will automatically be displayed on a map view. The map updates in real time as new GeoLocation data enters the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/map-overview.png&#34; alt=&#34;Map Overview&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Admin View</title>
+      <link>http:///www.lignitetech.com/item/admin/</link>
+      <pubDate>Sat, 01 Jan 2005 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/admin/</guid>
+      <description>&lt;p&gt;Full administration of the system including user and permissions management, metadata management and data source definition.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;user-access-and-permissions&#34;&gt;User access and permissions&lt;/h2&gt;
+
+&lt;p&gt;Users and access permissions are maintained via the admin section&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-user-management.png&#34; alt=&#34;Admin User Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-permissions-management.png&#34; alt=&#34;Admin Permissions Management&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;audit&#34;&gt;Audit&lt;/h2&gt;
+
+&lt;p&gt;All events that take place in the system are fully audited&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-audit-management.png&#34; alt=&#34;Admin Audit Management&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;datasource-management&#34;&gt;Datasource Management&lt;/h2&gt;
+
+&lt;p&gt;Datasources can be managed via a GUI&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-management.png&#34; alt=&#34;Admin Datasource Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where credentials are required to access the datasource there will be fields to enter the relevant information&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-twitter.png&#34; alt=&#34;Admin Datasource Twitter&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;metadata-management&#34;&gt;Metadata Management&lt;/h2&gt;
+
+&lt;p&gt;All system metadata is managed from a single location&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-management.png&#34; alt=&#34;Admin Metadata Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the relevant data fields for metadata can be modified&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-entity.png&#34; alt=&#34;Admin Metadata Entity&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

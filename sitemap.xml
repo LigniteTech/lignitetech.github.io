@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>http:///www.lignitetech.com/item/dashboard/</loc>
+    <lastmod>2016-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http:///www.lignitetech.com/solution/events/</loc>
     <lastmod>2016-11-08T20:10:58+00:00</lastmod>
   </url>
@@ -44,6 +49,71 @@
   <url>
     <loc>http:///www.lignitetech.com/solution/link-analysis/</loc>
     <lastmod>2016-11-06T13:01:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/collab-workset/</loc>
+    <lastmod>2015-11-28T22:32:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/workset-summary/</loc>
+    <lastmod>2014-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/workset-network/</loc>
+    <lastmod>2013-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/workset-location/</loc>
+    <lastmod>2012-11-08T20:10:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/comments/</loc>
+    <lastmod>2011-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/entity-search/</loc>
+    <lastmod>2010-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/entity-entry/</loc>
+    <lastmod>2009-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/link-view/</loc>
+    <lastmod>2009-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/datasource/</loc>
+    <lastmod>2008-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/network-view/</loc>
+    <lastmod>2008-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/network-search/</loc>
+    <lastmod>2007-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/map-view/</loc>
+    <lastmod>2006-01-01T01:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http:///www.lignitetech.com/item/admin/</loc>
+    <lastmod>2005-01-01T01:01:01+00:00</lastmod>
   </url>
   
   <url>
