@@ -33,6 +33,8 @@
 
 &lt;p&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-overview.png&#34; alt=&#34;Collaborative Worksets&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Users can carry out investigations on a specific groups of data. A dashboard view provides an overview of all their current worksets.&lt;/p&gt;</description>
     </item>
     
@@ -57,7 +59,9 @@
       <guid>http:///www.lignitetech.com/item/workset-network/</guid>
       <description>&lt;p&gt;Network view of workset data. See how the entities in a workset are related. Increase the depth of the relationships to discover patterns and relationship clusters.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-network.png&#34; alt=&#34;Collaborative Workset Network View&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -68,7 +72,9 @@
       <guid>http:///www.lignitetech.com/item/workset-location/</guid>
       <description>&lt;p&gt;Workset Location view. Any entity with GeoLocation information, will be displayed on the map. The map instantly reflects any incoming data with location information.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-location.png&#34; alt=&#34;Collaborative Workset Location View&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,7 +85,9 @@
       <guid>http:///www.lignitetech.com/item/comments/</guid>
       <description>&lt;p&gt;Comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also full text indexed and can be searched from any point in the system.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-comment.png&#34; alt=&#34;Comments&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,15 +102,15 @@
 
 &lt;p&gt;Searches can be carried out by name, type, attributes or any combination&lt;/p&gt;
 
-&lt;p&gt;By name&lt;/p&gt;
+&lt;h2 id=&#34;by-name&#34;&gt;By name&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text.png&#34; alt=&#34;Entity Filtered By Text&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;By type&lt;/p&gt;
+&lt;h2 id=&#34;by-type&#34;&gt;By type&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-type.png&#34; alt=&#34;Entity Filtered By Type&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;By name and type&lt;/p&gt;
+&lt;h2 id=&#34;by-name-and-type&#34;&gt;By name and type&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text-type.png&#34; alt=&#34;Entity Filtered By Text and Type&#34; /&gt;&lt;/p&gt;</description>
     </item>
@@ -115,7 +123,9 @@
       <guid>http:///www.lignitetech.com/item/entity-entry/</guid>
       <description>&lt;p&gt;Entity details can be viewed and amended. Add comments and attributes on an ad-hoc basis. Create new relationships to other entities&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-view.png&#34; alt=&#34;Entity Entry&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -156,13 +166,23 @@
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view.png&#34; alt=&#34;Network View&#34; /&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;data-volume&#34;&gt;Data volume&lt;/h2&gt;
+
 &lt;p&gt;Large datasets can be explored&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-zoomed-out.png&#34; alt=&#34;Network View Zoomed Out&#34; /&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;data-insight&#34;&gt;Data Insight&lt;/h2&gt;
+
 &lt;p&gt;Hovering over any data point highlights the connected entities&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-hover.png&#34; alt=&#34;Network View Hover&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-hover.png&#34; alt=&#34;Network View Hover&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;shortest-path&#34;&gt;Shortest Path&lt;/h2&gt;
+
+&lt;p&gt;Discover the shortest path between two entities. Quickly convert all nodes into the path to allow for further investigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-view-shortest-path.png&#34; alt=&#34;Network View Shortest Path&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
