@@ -188,7 +188,7 @@
     <item>
       <title>Network Search</title>
       <link>http:///www.lignitetech.com/item/network-search/</link>
-      <pubDate>Mon, 01 Jan 2007 01:01:01 +0000</pubDate>
+      <pubDate>Fri, 01 Jun 2007 01:01:01 +0000</pubDate>
       
       <guid>http:///www.lignitetech.com/item/network-search/</guid>
       <description>&lt;p&gt;Dynamically typed queries can be construted via an intuitive GUI. Interactive graph based searching which can then be used as the basis for further investigation.&lt;/p&gt;
@@ -196,6 +196,19 @@
 &lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/network-query-view.png&#34; alt=&#34;Network Query View&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http:///www.lignitetech.com/item/analytics/</link>
+      <pubDate>Mon, 01 Jan 2007 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/analytics/</guid>
+      <description>&lt;p&gt;Real time analytics to carry out Entity and Attribute based investigations on the entire data set or selected worksets.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/analytics-overview.png&#34; alt=&#34;Analytics View&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
