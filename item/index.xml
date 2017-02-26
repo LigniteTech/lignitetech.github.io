@@ -199,6 +199,19 @@
     </item>
     
     <item>
+      <title>Full Text Search</title>
+      <link>http:///www.lignitetech.com/item/full-text-search/</link>
+      <pubDate>Tue, 15 May 2007 01:01:01 +0000</pubDate>
+      
+      <guid>http:///www.lignitetech.com/item/full-text-search/</guid>
+      <description>&lt;p&gt;All text content stored in the system is indexed and fully searchable&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/full-text-search-results.png&#34; alt=&#34;Network Query View&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Analytics</title>
       <link>http:///www.lignitetech.com/item/analytics/</link>
       <pubDate>Mon, 01 Jan 2007 01:01:01 +0000</pubDate>
@@ -212,61 +225,16 @@
     </item>
     
     <item>
-      <title>Map View</title>
-      <link>http:///www.lignitetech.com/item/map-view/</link>
-      <pubDate>Sun, 01 Jan 2006 01:01:01 +0000</pubDate>
+      <title>Document Upload</title>
+      <link>http:///www.lignitetech.com/item/document-upload/</link>
+      <pubDate>Sun, 15 Jan 2006 01:01:01 +0000</pubDate>
       
-      <guid>http:///www.lignitetech.com/item/map-view/</guid>
-      <description>&lt;p&gt;Any data with GeoLocation information will automatically be displayed on a map view. The map updates in real time as new GeoLocation data enters the system.&lt;/p&gt;
+      <guid>http:///www.lignitetech.com/item/document-upload/</guid>
+      <description>&lt;p&gt;Binary documents (eg word, pdf) can be uploaded into the system and treated as entities which can be linked to other entities. The contents of the documents are fully searchable.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/map-overview.png&#34; alt=&#34;Map Overview&#34; /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Admin View</title>
-      <link>http:///www.lignitetech.com/item/admin/</link>
-      <pubDate>Sat, 01 Jan 2005 01:01:01 +0000</pubDate>
-      
-      <guid>http:///www.lignitetech.com/item/admin/</guid>
-      <description>&lt;p&gt;Full administration of the system including user and permissions management, metadata management and data source definition.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;user-access-and-permissions&#34;&gt;User access and permissions&lt;/h2&gt;
-
-&lt;p&gt;Users and access permissions are maintained via the admin section&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-user-management.png&#34; alt=&#34;Admin User Management&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-permissions-management.png&#34; alt=&#34;Admin Permissions Management&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;audit&#34;&gt;Audit&lt;/h2&gt;
-
-&lt;p&gt;All events that take place in the system are fully audited&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-audit-management.png&#34; alt=&#34;Admin Audit Management&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;datasource-management&#34;&gt;Datasource Management&lt;/h2&gt;
-
-&lt;p&gt;Datasources can be managed via a GUI&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-management.png&#34; alt=&#34;Admin Datasource Management&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Where credentials are required to access the datasource there will be fields to enter the relevant information&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-datasource-twitter.png&#34; alt=&#34;Admin Datasource Twitter&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;metadata-management&#34;&gt;Metadata Management&lt;/h2&gt;
-
-&lt;p&gt;All system metadata is managed from a single location&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-management.png&#34; alt=&#34;Admin Metadata Management&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All the relevant data fields for metadata can be modified&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/admin-metadata-entity.png&#34; alt=&#34;Admin Metadata Entity&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/document-uploaded-entity.png&#34; alt=&#34;Map Overview&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
