@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Nov 2016 20:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 13:01:15 -0800</lastBuildDate>
     <atom:link href="http:///www.lignitetech.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Financial Compliance</title>
+      <link>http:///www.lignitetech.com/solution/financial-compliance/</link>
+      <pubDate>Mon, 27 Feb 2017 13:01:15 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/financial-compliance/</guid>
+      <description>&lt;p&gt;Financial Compliance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trade Analytics</title>
+      <link>http:///www.lignitetech.com/solution/trade-analytics/</link>
+      <pubDate>Mon, 27 Feb 2017 13:01:11 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/trade-analytics/</guid>
+      <description>&lt;p&gt;Trade Analytics&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FAQ</title>
@@ -227,44 +247,6 @@
 &lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-location.png&#34; alt=&#34;Collaborative Workset Location View&#34; /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Comments</title>
-      <link>http:///www.lignitetech.com/item/comments/</link>
-      <pubDate>Sat, 01 Jan 2011 01:01:01 +0000</pubDate>
-      
-      <guid>http:///www.lignitetech.com/item/comments/</guid>
-      <description>&lt;p&gt;Comments can be attached to all entities and links within the system. They will be visible as per access requirements. Additionally they are also full text indexed and can be searched from any point in the system.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/workset-comment.png&#34; alt=&#34;Comments&#34; /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Entity Search</title>
-      <link>http:///www.lignitetech.com/item/entity-search/</link>
-      <pubDate>Fri, 01 Jan 2010 01:01:01 +0000</pubDate>
-      
-      <guid>http:///www.lignitetech.com/item/entity-search/</guid>
-      <description>&lt;p&gt;Entities within the system can be searched for on a combination of any of their underlying attributes. Create worksets for further investigation or to send another user.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Searches can be carried out by name, type, attributes or any combination&lt;/p&gt;
-
-&lt;h2 id=&#34;by-name&#34;&gt;By name&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text.png&#34; alt=&#34;Entity Filtered By Text&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;by-type&#34;&gt;By type&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-type.png&#34; alt=&#34;Entity Filtered By Type&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;by-name-and-type&#34;&gt;By name and type&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/screenshots/entity-overview-filtered-text-type.png&#34; alt=&#34;Entity Filtered By Text and Type&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

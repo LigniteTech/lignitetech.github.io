@@ -7,8 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2016 20:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 13:01:15 -0800</lastBuildDate>
     <atom:link href="http:///www.lignitetech.com/solution/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Financial Compliance</title>
+      <link>http:///www.lignitetech.com/solution/financial-compliance/</link>
+      <pubDate>Mon, 27 Feb 2017 13:01:15 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/financial-compliance/</guid>
+      <description>&lt;p&gt;Financial Compliance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trade Analytics</title>
+      <link>http:///www.lignitetech.com/solution/trade-analytics/</link>
+      <pubDate>Mon, 27 Feb 2017 13:01:11 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/trade-analytics/</guid>
+      <description>&lt;p&gt;Trade Analytics&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Events</title>
