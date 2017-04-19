@@ -157,10 +157,51 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">February 27, 2017</p>
+                        <p class="text-muted text-uppercase mb-small text-right">April 19, 2017</p>
 
                         <div id="post-content">
-                          <p>Trade Analytics</p>
+                          
+
+<h1 id="trade-analytics">Trade Analytics</h1>
+
+<h2 id="trade-model">Trade Model</h2>
+
+<p>Using a simplified trading model as an example</p>
+
+<p><img src="/img/content/solution/trade_model.png" alt="Trade Model" /></p>
+
+<p>A relationship exists between <code>Product</code> and <code>Trade</code>. Typically for products can be traded either in multiples (eg Bond, Equity) or individually for OTC.</p>
+
+<p>Any given instance of trade can itself have relationships with multiple <code>Settlements</code> and <code>Confirmations</code>. There can also be multiple <code>Intersystem Breaks</code> or <code>Trade Exceptions</code> associated with the <code>Trade</code>.</p>
+
+<h2 id="data-import">Data Import</h2>
+
+<p>Data can be imported from a variety of sources which can be static, poll based or streaming. For instance we can import from a flat file.</p>
+
+<pre><code>type::product,source::trading1,productId::2,productType::BondMMDiscount,description::BondMMDiscount Desc
+type::product,source::trading1,productId::3,productType::GenericOption,description::GenericOption Desc
+type::product,source::trading1,productId::4,productType::FX,description::FX Desc
+type::product,source::trading1,productId::5,productType::PositionCash,description::PositionCash Desc
+type::product,source::trading1,productId::6,productType::CommoditySwap2,description::CommoditySwap2 Desc
+type::product,source::trading1,productId::7,productType::CreditDefaultSwap,description::CreditDefaultSwap Desc
+type::product,source::trading1,productId::8,productType::Bond,description::Bond Desc
+type::product,source::trading1,productId::9,productType::PositionCash,description::PositionCash Desc
+type::product,source::trading1,productId::10,productType::FRA,description::FRA Desc
+</code></pre>
+
+<p>Owing to the flexible data model we can import a variable number of comma delimited key value pairs which are separated by the double colon <code>::</code>. Once imported a product will reflect it&rsquo;s attributes in the system.</p>
+
+<p>Using the Entity viewer we can drill down by Entity Type and locate indivual items</p>
+
+<p><img src="/img/content/solution/entity_products.png" alt="Entity Products" /></p>
+
+<p>When viewing an Entity you can view the attributes</p>
+
+<p><img src="/img/content/solution/product_view.png" alt="Entity Attributes" /></p>
+
+<p>and the direct links</p>
+
+<p><img src="/img/content/solution/product_links.png" alt="Entity Links" /></p>
 
                         </div>
                         

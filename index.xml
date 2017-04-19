@@ -7,8 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, LigniteTech; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Feb 2017 13:01:15 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 13:01:11 -0800</lastBuildDate>
     <atom:link href="http:///www.lignitetech.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Trade Analytics</title>
+      <link>http:///www.lignitetech.com/solution/trade-analytics/</link>
+      <pubDate>Wed, 19 Apr 2017 13:01:11 -0800</pubDate>
+      
+      <guid>http:///www.lignitetech.com/solution/trade-analytics/</guid>
+      <description>
+
+&lt;h1 id=&#34;trade-analytics&#34;&gt;Trade Analytics&lt;/h1&gt;
+
+&lt;h2 id=&#34;trade-model&#34;&gt;Trade Model&lt;/h2&gt;
+
+&lt;p&gt;Using a simplified trading model as an example&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/content/solution/trade_model.png&#34; alt=&#34;Trade Model&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A relationship exists between &lt;code&gt;Product&lt;/code&gt; and &lt;code&gt;Trade&lt;/code&gt;. Typically for products can be traded either in multiples (eg Bond, Equity) or individually for OTC.&lt;/p&gt;
+
+&lt;p&gt;Any given instance of trade can itself have relationships with multiple &lt;code&gt;Settlements&lt;/code&gt; and &lt;code&gt;Confirmations&lt;/code&gt;. There can also be multiple &lt;code&gt;Intersystem Breaks&lt;/code&gt; or &lt;code&gt;Trade Exceptions&lt;/code&gt; associated with the &lt;code&gt;Trade&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-import&#34;&gt;Data Import&lt;/h2&gt;
+
+&lt;p&gt;Data can be imported from a variety of sources which can be static, poll based or streaming. For instance we can import from a flat file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;type::product,source::trading1,productId::2,productType::BondMMDiscount,description::BondMMDiscount Desc
+type::product,source::trading1,productId::3,productType::GenericOption,description::GenericOption Desc
+type::product,source::trading1,productId::4,productType::FX,description::FX Desc
+type::product,source::trading1,productId::5,productType::PositionCash,description::PositionCash Desc
+type::product,source::trading1,productId::6,productType::CommoditySwap2,description::CommoditySwap2 Desc
+type::product,source::trading1,productId::7,productType::CreditDefaultSwap,description::CreditDefaultSwap Desc
+type::product,source::trading1,productId::8,productType::Bond,description::Bond Desc
+type::product,source::trading1,productId::9,productType::PositionCash,description::PositionCash Desc
+type::product,source::trading1,productId::10,productType::FRA,description::FRA Desc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Owing to the flexible data model we can import a variable number of comma delimited key value pairs which are separated by the double colon &lt;code&gt;::&lt;/code&gt;. Once imported a product will reflect it&amp;rsquo;s attributes in the system.&lt;/p&gt;
+
+&lt;p&gt;Using the Entity viewer we can drill down by Entity Type and locate indivual items&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/content/solution/entity_products.png&#34; alt=&#34;Entity Products&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When viewing an Entity you can view the attributes&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/content/solution/product_view.png&#34; alt=&#34;Entity Attributes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and the direct links&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http:/www.lignitetech.com/img/content/solution/product_links.png&#34; alt=&#34;Entity Links&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Financial Compliance</title>
@@ -17,16 +68,6 @@
       
       <guid>http:///www.lignitetech.com/solution/financial-compliance/</guid>
       <description>&lt;p&gt;Financial Compliance&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trade Analytics</title>
-      <link>http:///www.lignitetech.com/solution/trade-analytics/</link>
-      <pubDate>Mon, 27 Feb 2017 13:01:11 -0800</pubDate>
-      
-      <guid>http:///www.lignitetech.com/solution/trade-analytics/</guid>
-      <description>&lt;p&gt;Trade Analytics&lt;/p&gt;
 </description>
     </item>
     
