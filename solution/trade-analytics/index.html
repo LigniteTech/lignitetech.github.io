@@ -191,6 +191,8 @@ type::product,source::trading1,productId::10,productType::FRA,description::FRA D
 
 <p>Owing to the flexible data model we can import a variable number of comma delimited key value pairs which are separated by the double colon <code>::</code>. Once imported a product will reflect it&rsquo;s attributes in the system.</p>
 
+<h2 id="viewing-data">Viewing Data</h2>
+
 <p>Using the Entity viewer we can drill down by Entity Type and locate indivual items</p>
 
 <p><img src="/img/content/solution/entity_products.png" alt="Entity Products" /></p>
@@ -202,6 +204,46 @@ type::product,source::trading1,productId::10,productType::FRA,description::FRA D
 <p>and the direct links</p>
 
 <p><img src="/img/content/solution/product_links.png" alt="Entity Links" /></p>
+
+<h2 id="investigating-data">Investigating Data</h2>
+
+<p>When you want to gain more insight into your data your first step should be to create a <code>Workset</code>. This will allow you to managage entities in groups.</p>
+
+<p><img src="/img/content/solution/workset_main.png" alt="Workset Overview" /></p>
+
+<p>The initial card will give you a brief overview of</p>
+
+<ul>
+<li>The number of entities managed</li>
+<li>The total number of attributes</li>
+<li>The number of active links</li>
+</ul>
+
+<p>Entering the workset you can get an overview of the individal entity attributes by selecting the entity</p>
+
+<p><img src="/img/content/solution/workset_entity_info.png" alt="Workset Entity Attributes" /></p>
+
+<p>Entering the network view allows for the investigation of the links between the entities.</p>
+
+<p><img src="/img/content/solution/workset_network_depth_0.png" alt="Workset Network Depth 0" /></p>
+
+<p>If a direct link exists then a line will be displayed and the type of relationship will be shown on the line</p>
+
+<p><img src="/img/content/solution/workset_link_text.png" alt="Workset Link Text" /></p>
+
+<p>If you now wish to see the other links for entities you can begin to increase the depth of the relationships using the <code>Depth Control</code> for the network view.</p>
+
+<p><img src="/img/content/solution/workset_depth_control.png" alt="Workset Depth Control" /></p>
+
+<p>So, increasing the depth by one allows us to view the immediate neighbours of each of the entities.</p>
+
+<p><img src="/img/content/solution/workset_network_depth_1.png" alt="Workset Network Depth 1" /></p>
+
+<p>You can see that the <code>Product</code> is associated with a number of trades, while the <code>Trade</code> from the workset has an associated <code>Settlement</code> and <code>Confirmation</code></p>
+
+<p>Increasing the depth further brings in the links from the first order neighbours of the original workset.</p>
+
+<p><img src="/img/content/solution/workset_network_depth_2.png" alt="Workset Network Depth 2" /></p>
 
                         </div>
                         
